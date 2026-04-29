@@ -1,54 +1,64 @@
-# 🚨 Financial Crime Analysis Dashboard
+# 🚨 Global Financial Crime Intelligence & Risk Analytics Dashboard
 
-## 📊 Overview
-This project analyzes global financial transactions to detect potential money laundering risks using data analytics techniques.
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![Tools](https://img.shields.io/badge/Tools-Python%20|%20MySQL%20|%20PowerBI-blue)
 
 ---
 
-## 🛠️ Tools Used
-- 🐍 Python (Pandas)
-- 🗄️ MySQL
-- 📊 Power BI
+## 📌 Overview
+This project presents an end-to-end data analytics solution to identify and analyze potential money laundering risks in global financial transactions.
+
+The system transforms raw financial data into actionable insights using data cleaning, SQL-based analysis, and interactive visualization.
+
+---
+
+## 🧠 Problem Statement
+Financial crime is increasing globally, and detecting suspicious transactions manually is inefficient.
+
+👉 This project solves that by:
+- Identifying high-risk transactions  
+- Analyzing patterns across countries and transaction types  
+- Visualizing risk insights for decision-making  
+
+---
+
+## 🛠️ Tech Stack
+| Tool       | Purpose |
+|------------|--------|
+| 🐍 Python (Pandas) | Data Cleaning & Preprocessing |
+| 🗄️ MySQL | Data Storage & Query Analysis |
+| 📊 Power BI | Dashboard & Visualization |
+
+---
+
+## 🔄 Workflow
+1. Data Cleaning → Python (Pandas)  
+2. Data Storage → MySQL  
+3. Data Analysis → SQL + Python  
+4. Visualization → Power BI Dashboard  
+
+---
+
+## 📊 Dashboard Preview
+
+![Dashboard](dashboard.png)
+
+---
+
+## 📈 Key Insights
+- 🔍 Transaction type has a stronger impact on risk than transaction amount  
+- 🌍 Risk levels are relatively consistent across countries  
+- ⚠️ High-risk transactions are distributed across multiple regions  
+- 🏦 Shell company involvement contributes to suspicious activity patterns  
 
 ---
 
 ## ⚙️ Features
-- 🧹 Data cleaning and preprocessing  
-- 🧠 SQL-based analysis  
-- 📈 Interactive dashboard  
-- 🚨 Risk pattern detection  
+- 🧹 Data preprocessing & cleaning  
+- 🧠 SQL-based analytical queries  
+- 📊 Interactive Power BI dashboard  
+- 🚨 Risk detection and pattern identification  
 
 ---
 
-## 🔍 Key Insights
-- 📊 Transaction type impacts risk more than amount  
-- ⚠️ High-risk transactions identified across dataset  
-- 🌍 Risk distribution is relatively uniform across countries  
-
----
-
-## 📁 Project Files
-- 📓 `analysis.ipynb` → Data analysis  
-- 🗃️ `queries.sql` → SQL queries  
-- 📊 `dashboard.pbix` → Power BI dashboard  
-- 📽️ `presentation.pptx` → Project presentation  
-
----
-
-## 🖥️ Dashboard Preview
-
-![Dashboard]("C:\\Users\\chaur\\OneDrive\Pictures\\Screenshots\\Screenshot 2026-04-29 234227.png")
-
----
-
-## 🚀 Project Highlights
-- End-to-end data analysis pipeline  
-- Real-world financial dataset  
-- Business-focused insights  
-- Interactive BI dashboard  
-
----
-
-## 📌 Author
-👤 Lucky Chaurasiya  
-🎓 BCA | Data Analytics  
+## 📁 Project Structure
