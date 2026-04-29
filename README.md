@@ -41,7 +41,7 @@ Financial crime is increasing globally, and detecting suspicious transactions ma
 
 ## 📊 Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Dashboard.png)
 
 ---
 
