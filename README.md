@@ -37,7 +37,7 @@ This project analyzes global financial transactions to detect potential money la
 
 ## 🖥️ Dashboard Preview
 
-![Dashboard](Screenshot_2026-04-29_234227.png)
+![Dashboard]("C:\\Users\\chaur\\OneDrive\Pictures\\Screenshots\\Screenshot 2026-04-29 234227.png")
 
 ---
 
