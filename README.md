@@ -62,3 +62,26 @@ Financial crime is increasing globally, and detecting suspicious transactions ma
 ---
 
 ## 📁 Project Structure
+
+---
+
+## 🚀 Key Highlights
+- End-to-end data analytics pipeline  
+- Real-world financial dataset  
+- Business-oriented insights  
+- Clean and interactive dashboard design  
+
+---
+
+## 👤 Author
+**Lucky Chaurasiya**  
+🎓 BCA | Aspiring Data Analyst  
+📊 Skilled in Python, SQL, and Power BI  
+
+---
+
+## 📬 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/lucky-chaurasiya-b46986392  
+- 💻 GitHub: https://github.com/LuckyWa3957T  
+
+---
